@@ -94,7 +94,7 @@ https://dcvglobalnetwork.github.io/property-demo/
 
 - **Live Demo:** [https://property-demo-2025.netlify.app/](https://property-demo-2025.netlify.app/)
 
-- **GitHub Repository:** [https://github.com/DCVglobalnetwork/property-demo](https://github.com/DCVglobalnetwork/property-demo)
+- **GitHub Repository:** [https://github.com/DCVglobalnetwork/property-demo-tech](https://github.com/DCVglobalnetwork/property-demo-tech)
 
 
 ---
