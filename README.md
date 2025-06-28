@@ -104,10 +104,14 @@ https://dcvglobalnetwork.github.io/property-demo/
 
 ---
 
-## 📦 QR Code for Brochure / Slide
+## 🔗 Project Links
 
+- **Canva Design (Brochure/Slides):** [View on Canva](https://www.canva.com/design/DAGrqBWirLk/SAArdJnI_be1nVvHEw-1oQ/view?utm_content=DAGrqBWirLk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4229c9811c)
 
-Use it in brochures, pitch decks, or investor handouts.
+- **Live Demo:** [https://property-demo-2025.netlify.app/](https://property-demo-2025.netlify.app/)
+
+- **GitHub Repository:** [https://github.com/DCVglobalnetwork/property-demo](https://github.com/DCVglobalnetwork/property-demo)
+
 
 ---
 
