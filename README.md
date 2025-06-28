@@ -1,6 +1,6 @@
-# 🏠 SmartRealEstate Demo – Chainlink x HTML
+# 🏠 SmartDee Demo – Chainlink x HTML
 
-This is a simple front-end demo (`index.html`) for the **SmartRealEstate** Chainlink Hackathon project. It simulates how a property oracle system would fetch, verify, and display property data using **Chainlink Functions**.
+This is a simple front-end demo (`index.html`) for the **SmartDee** Chainlink Hackathon project. It simulates how a property oracle system would fetch, verify, and display property data using **Chainlink Functions**.
 
 ---
 
