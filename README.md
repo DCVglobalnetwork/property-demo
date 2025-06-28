@@ -15,6 +15,17 @@ This HTML demo page displays:
 
 Used for simulating how Chainlink Functions would return verified external property data into your smart contract.
 
+
+## 🚀 Live Demo
+
+Check out the live demo of this project here:  
+[https://property-demo-2025.netlify.app](https://property-demo-2025.netlify.app)
+
+You can also scan the QR code in the project brochure or slides to open the demo directly on your device!
+
+![image](https://github.com/user-attachments/assets/d6665569-7702-4c6e-9f5c-41a07b00dd5f)
+
+
 ---
 
 ## 🧱 Repo Structure
