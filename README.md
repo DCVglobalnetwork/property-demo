@@ -52,7 +52,6 @@ This isn’t just a hack. It’s a **product**.
 ✅ Property lenders & credit scoring platforms  
 ✅ DeFi mortgage apps
 
-### 🔖 Tagline:
 > 💰 Turn property data into revenue — with Chainlink
 
 ---
