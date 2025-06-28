@@ -1,6 +1,6 @@
 # 🏠 SmartDee Demo – Chainlink x HTML
 
-This is a simple front-end demo (`index.html`) for the **SmartDee** Chainlink Hackathon project. It simulates how a property oracle system would fetch, verify, and display property data using **Chainlink Functions**.
+This is a simple front-end demo (index.html) for the **SmartDee** Chainlink Hackathon project. It simulates how a property oracle system would fetch, verify, and display property data using **Chainlink Functions**.
 
 ---
 
@@ -23,7 +23,8 @@ Check out the live demo of this project here:
 
 You can also scan the QR code in the project brochure or slides to open the demo directly on your device!
 
-![image](https://github.com/user-attachments/assets/d6665569-7702-4c6e-9f5c-41a07b00dd5f)
+![image](https://github.com/user-attachments/assets/92d17fde-55ca-4ef2-b0ca-18bbc3efa790)
+
 
 
 ---
@@ -75,31 +76,15 @@ This isn’t just a hack. It’s a **product**.
 | ✅ Dynamic JS Scripts      | Future   | Allow different scripts per property ID or source        |
 | ✅ IPFS / External API     | Future   | Use real APIs instead of mock data                       |
 
----
 
-## 🧪 Remix & Chainlink Functions: Technical Recap
 
-While testing in Remix:
-
-- Encountered **gas estimation errors** during simulation.
-- Problem: Remix cannot simulate off-chain Chainlink Function calls correctly.
-- Workaround: Clearly demonstrated contract logic and fallback UI using HTML.
-- Plan: Switch to Hardhat + staging environment for full Chainlink E2E testing.
-
----
-
-## 📸 What to Include in the Submission
-
-- ✅ Screenshot of Remix IDE + successful request ID
-- ✅ Screenshot of property data parsed (ID, value, location)
-- ✅ QR Code to this GitHub repo or demo HTML page
 
 ---
 
 https://dcvglobalnetwork.github.io/property-demo/
 
 
-2. Open `index.html` in any browser.
+2. Open index.html in any browser.
 3. Use the mock property data to simulate Chainlink output.
 
 ---
@@ -130,8 +115,4 @@ https://dcvglobalnetwork.github.io/property-demo/
 MIT License
 
 © 2025 DCV Global Network
-
----
-
-
 
