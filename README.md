@@ -6,8 +6,6 @@ This is a simple front-end demo (index.html) for the **SmartDee** Chainlink Hack
 
 ## 🌍 Live HTML Demo
 
-📺 [Click to view the property demo page](https://dcvglobalnetwork.github.io/property-demo/)
-
 This HTML demo page displays:
 - Property ID
 - Estimated Market Value
