@@ -48,7 +48,8 @@ This isn’t just a hack. It’s a **product**.
 - Add fees, whitelist, and access control later
 
 #### Clients:
-✅ Momo Finance  
+✅ Habito
+✅ Molo Finance  
 ✅ Property lenders & credit scoring platforms  
 ✅ DeFi mortgage apps
 
