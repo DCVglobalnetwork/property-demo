@@ -19,10 +19,13 @@ Used for simulating how Chainlink Functions would return verified external prope
 Check out the live demo of this project here:  
 [https://property-demo-2025.netlify.app](https://property-demo-2025.netlify.app)
 
+1. Open index.html in any browser.
+2. Use the mock property data to simulate Chainlink output.
+
+
 You can also scan the QR code in the project brochure or slides to open the demo directly on your device!
 
 ![image](https://github.com/user-attachments/assets/92d17fde-55ca-4ef2-b0ca-18bbc3efa790)
-
 
 
 ---
@@ -74,16 +77,6 @@ This isn’t just a hack. It’s a **product**.
 | ✅ Dynamic JS Scripts      | Future   | Allow different scripts per property ID or source        |
 | ✅ IPFS / External API     | Future   | Use real APIs instead of mock data                       |
 
-
-
-
----
-
-https://dcvglobalnetwork.github.io/property-demo/
-
-
-2. Open index.html in any browser.
-3. Use the mock property data to simulate Chainlink output.
 
 ---
 
