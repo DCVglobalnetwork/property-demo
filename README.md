@@ -23,11 +23,6 @@ Check out the live demo of this project here:
 2. Use the mock property data to simulate Chainlink output.
 
 
-You can also scan the QR code in the project brochure or slides to open the demo directly on your device!
-
-![image](https://github.com/user-attachments/assets/92d17fde-55ca-4ef2-b0ca-18bbc3efa790)
-
-
 ---
 
 ## 🧱 Repo Structure
