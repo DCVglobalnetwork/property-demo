@@ -1,65 +1,52 @@
-# 🏠 SmartDee Demo – Chainlink x HTML
+# 🏠 RealEstate Oracle – UK Property Tokenization
 
-This is a simple front-end demo (index.html) for the **SmartDee** Chainlink Hackathon project. It simulates how a property oracle system would fetch, verify, and display property data using **Chainlink Functions**.
+## 🚀 Overview
+RealEstate Oracle tokenizes UK property into **digital shares** using blockchain + Chainlink oracles — making real estate investment faster, cheaper, and accessible to everyone.
 
 ---
 
-## 🌍 Live HTML Demo
+## 📌 Problem
+Traditional property investment is:
+- Expensive (requires large upfront capital)
+- Slow (months of paperwork, legal checks, middlemen)
+- Limited to wealthy buyers and institutions
 
-This HTML demo page displays:
-- Property ID
-- Estimated Market Value
-- Location
+---
 
-Used for simulating how Chainlink Functions would return verified external property data into your smart contract.
+## 💡 Solution
+- Property owners unlock liquidity by tokenizing assets
+- Investors buy shares starting from £100
+- Chainlink Functions provide **verifiable property & legal data** on-chain
+
+---
+
+## ⚙️ How It Works
+1. Property owner lists property
+2. Property is tokenized into 100–1,000 shares
+3. Investors purchase tokens
+4. Chainlink oracles verify property & legal data
+5. Investors earn returns from rent & appreciation
+
+---
+
+## 🎯 Current Focus (Aug → Oct 2025)
+- Tokenize 1–3 pilot properties before the **London Blockchain Conference**
+- Build investor & property-owner network
+- Showcase MVP demo with live tokenized property
+
+---
+
+## 📩 Call to Action
+We are looking for:
+- 🏠 Property owners/developers to join pilot
+- 💰 Investors to participate in fractional ownership
+- 🤝 Partners in legal, fintech, and blockchain
 
 
-## 🚀 Live Demo
-
-Check out the live demo of this project here:  
+  
 [https://property-demo-2025.netlify.app](https://property-demo-2025.netlify.app)
 
-1. Open index.html in any browser.
-2. Use the mock property data to simulate Chainlink output.
 
-
----
-
-## 🧱 Repo Structure
-
-property-demo/ - index.html (HTML demo file with mock property data), README.md (You're reading it)
-
-
----
-
-## 💼 Business & Money
-
-### 💰 Real Use. Real Clients. Real Money.
-
-This isn’t just a hack. It’s a **product**.
-
-#### Revenue Potential:
-- SaaS/API pricing per property check
-- White-label version for mortgage firms & insurers
-- Add fees, whitelist, and access control later
-
-#### Clients:
-✅ Habito
-✅ Molo Finance  
-✅ Property lenders & credit scoring platforms  
-✅ DeFi mortgage apps
-
-> 💰 Turn property data into revenue — with Chainlink
-
----
-
-## 🔮 Use Case Summary
-
-- Chainlink Functions connects smart contracts to **external property data**.
-- Property ID, estimated value, and geolocation are parsed and stored on-chain.
-- This HTML page mocks the UI side of that process for the hackathon submission.
-
----
 
 ## 🚀 Future Development (Advanced Version)
 
@@ -95,6 +82,12 @@ This isn’t just a hack. It’s a **product**.
 - Judges & real client feedback  
 
 ---
+
+## 📂 Repository Structure
+- `contracts/` → Solidity contracts for tokenization
+- `frontend/` → Minimal dashboard for investors
+- `scripts/` → Deployment & testing scripts
+- `docs/` → Pitch deck, roadmap, case studies
 
 ## 📜 License
 
